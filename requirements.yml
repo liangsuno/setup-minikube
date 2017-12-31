@@ -1,0 +1,5 @@
+# from galaxy
+- src: liangsuno.docker
+- src: liangsuno.kubectl
+- src: liangsuno.minikube
+- src: geerlingguy.ansible-role-packer

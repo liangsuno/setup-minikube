@@ -1,0 +1,6 @@
+- hosts: all
+
+  roles:
+    - liangsuno.docker
+    - liangsuno.kubectl
+    - liangsuno.minikube
